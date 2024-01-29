@@ -1,0 +1,16 @@
+{
+  "name": "index-it-js",
+  "version": "1.0.0",
+  "description": "Script for making html directory listings.",
+  "main": "index.js",
+  "author": "Jim Kang",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  },
+  "bin": {
+    "index-it": "./index.js"
+  },
+  "engine": 18
+}
